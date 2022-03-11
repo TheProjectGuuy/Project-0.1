@@ -3,7 +3,6 @@ C:\Users\Aldi\source\repos\Project 0.1\bin\Debug\Project 0.1.exe
 C:\Users\Aldi\source\repos\Project 0.1\bin\Debug\Project 0.1.pdb
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project 0.1.csproj.AssemblyReference.cache
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project 0.1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.Application.resources
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.Properties.Resources.resources
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project 0.1.csproj.GenerateResource.cache
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project 0.1.csproj.CoreCompileInputs.cache

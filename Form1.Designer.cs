@@ -202,15 +202,16 @@
             // 
             // Exit
             // 
+            this.Exit.BackColor = System.Drawing.Color.White;
             this.Exit.FlatAppearance.BorderSize = 0;
             this.Exit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Exit.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(161)))), ((int)(((byte)(176)))));
-            this.Exit.Location = new System.Drawing.Point(864, 12);
+            this.Exit.Location = new System.Drawing.Point(864, 33);
             this.Exit.Name = "Exit";
             this.Exit.Size = new System.Drawing.Size(75, 23);
-            this.Exit.TabIndex = 3;
+            this.Exit.TabIndex = 2;
             this.Exit.Text = "X";
-            this.Exit.UseVisualStyleBackColor = true;
+            this.Exit.UseVisualStyleBackColor = false;
             this.Exit.Click += new System.EventHandler(this.Exit_Click);
             // 
             // Form1
