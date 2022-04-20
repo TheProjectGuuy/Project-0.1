@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Project_0._1
 {
-    public partial class FrmStats : Form
+    public partial class FrmBossGWD : Form
     {
-        public FrmStats()
+        public FrmBossGWD()
         {
             InitializeComponent();
-        }
-
-        private void pictureBox19_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void FrmStats_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

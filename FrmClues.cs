@@ -16,5 +16,15 @@ namespace Project_0._1
         {
             InitializeComponent();
         }
+
+        private void FrmClues_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -34,3 +34,9 @@ C:\Users\Aldi\source\repos\Project 0.1\bin\Debug\System.Runtime.CompilerServices
 C:\Users\Aldi\source\repos\Project 0.1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project 0.1.csproj.CopyComplete
 C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.Form1.resources
+C:\Users\Aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmAbout.resources
+C:\Users\aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmBossGWD.resources
+C:\Users\aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmBossRaids.resources
+C:\Users\aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmBossSkilling.resources
+C:\Users\aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmBossSlayer.resources
+C:\Users\aldi\source\repos\Project 0.1\obj\Debug\Project_0._1.FrmBossWilderness.resources

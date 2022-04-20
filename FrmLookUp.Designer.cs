@@ -35,21 +35,23 @@
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(64, 149);
+            this.textBox1.Location = new System.Drawing.Point(64, 169);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(551, 47);
             this.textBox1.TabIndex = 4;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.label1.Location = new System.Drawing.Point(57, 78);
+            this.label1.Location = new System.Drawing.Point(1, 83);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(607, 42);
+            this.label1.Size = new System.Drawing.Size(735, 42);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Lookup Your Runescape Account";
+            this.label1.Text = "Enter Your RSN Below and press \"Enter\"";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // FrmLookUp
             // 

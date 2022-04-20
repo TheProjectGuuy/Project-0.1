@@ -177,5 +177,10 @@ namespace Project_0._1
         {
             Application.Exit();
         }
+
+        private void PnlFormLoader_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

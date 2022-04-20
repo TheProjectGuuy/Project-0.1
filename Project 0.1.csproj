@@ -92,6 +92,36 @@
     <Compile Include="FrmBosses.Designer.cs">
       <DependentUpon>FrmBosses.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmBossGWD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBossGWD.Designer.cs">
+      <DependentUpon>FrmBossGWD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBossRaids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBossRaids.Designer.cs">
+      <DependentUpon>FrmBossRaids.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBossSkilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBossSkilling.Designer.cs">
+      <DependentUpon>FrmBossSkilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBossSlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBossSlayer.Designer.cs">
+      <DependentUpon>FrmBossSlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBossWilderness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBossWilderness.Designer.cs">
+      <DependentUpon>FrmBossWilderness.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmClues.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -121,8 +151,26 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmBosses.resx">
       <DependentUpon>FrmBosses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBossGWD.resx">
+      <DependentUpon>FrmBossGWD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBossRaids.resx">
+      <DependentUpon>FrmBossRaids.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBossSkilling.resx">
+      <DependentUpon>FrmBossSkilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBossSlayer.resx">
+      <DependentUpon>FrmBossSlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBossWilderness.resx">
+      <DependentUpon>FrmBossWilderness.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmClues.resx">
       <DependentUpon>FrmClues.cs</DependentUpon>

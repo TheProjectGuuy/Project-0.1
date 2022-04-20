@@ -16,5 +16,17 @@ namespace Project_0._1
         {
             InitializeComponent();
         }
+
+        private void TextBox_RSN_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmAbout_Load(object sender, EventArgs e)
+        {
+
+        }
+
+       
     }
 }
